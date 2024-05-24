@@ -14,7 +14,7 @@
 ## Modelos
 
 
-##Maskformer
+## Maskformer
 1. Seguir instrucciones de instalación del [Readme de Maskformer](MaskFormer/README.md).
 2. Entrenar con el comando:
 ```
